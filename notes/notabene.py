@@ -26,7 +26,7 @@ def filter_tpl(it, key=None):
     Функция типа lambda как фильтр, список фильтров помещен в кортеж, для демострации
     возможности подобного.
 
-    https://stepik.org/lesson/567059/step/7
+    https://stepik.org/lesson/567059/step/8
 
     полный конспект темы:
     https://github.com/yeralexey/Study/blob/master/notabene.py
